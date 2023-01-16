@@ -1,4 +1,4 @@
-### ✨  My Name is Drum Holliday ✨
+# ✨  My Name is Drum Holliday ✨
 
 ## Software Developer and FulL Stack Engineer
 
