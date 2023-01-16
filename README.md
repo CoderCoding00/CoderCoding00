@@ -8,6 +8,6 @@
 - 📫 Email me: hollidaydrum@gmail.com 
 
 
-## Languages and Technologies
+<!-- ## Languages and Technologies -->
 
 
