@@ -9,7 +9,7 @@
 
 <!-- ## Full Stack Engineer and Software Developer -->
  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="600"/>
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif  height= "300" width="900"/>
   </div>
   <br><br>
 <!-- <div id="header" align="left">
