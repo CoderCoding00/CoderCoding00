@@ -18,7 +18,7 @@
   </div> -->
                                                                                      
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
-# About Me 
+## About Me 
 - 👯 I’m open to collaborating on projects.
 - 📫 Email me: hollidaydrum@gmail.com   
 - <div id="badges">
