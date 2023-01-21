@@ -20,7 +20,7 @@
 
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 <!-- # Full Stack Engineer and Software Developer -->
-<div id="badges">
+<div id="badges" align="center">
  <p align="center">👯 I’m open to collaborating on projects.</p>
  <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
  </div>
