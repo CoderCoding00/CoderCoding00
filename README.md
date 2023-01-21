@@ -9,10 +9,14 @@
 
 <!-- ## Full Stack Engineer and Software Developer -->
  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif width="300"/>
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="900" height="300"/>
   </div>
   <br><br>
 
+ <!-- <div id="header" align="left">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  </div> -->
+                                                                                     
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 # About Me 
 - 👯 I’m open to collaborating on projects.
