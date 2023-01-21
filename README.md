@@ -9,7 +9,7 @@
 
 <!-- ## Full Stack Engineer and Software Developer -->
  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="600"/>
   </div>
   <br><br>
 <!-- <div id="header" align="left">
@@ -54,9 +54,7 @@
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div> -->
   
-### <div id="title"> 
- <p align="center"> Languages and Technologies </p>
- </div>
+## Languages and Technologies
  
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
