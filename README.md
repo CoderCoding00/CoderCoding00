@@ -3,6 +3,10 @@
   <div id="header" align="left">
      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
   </div>
+  
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 ## Full Stack Engineer and Software Developer
 
@@ -33,5 +37,9 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
 
-<!-- https://img.shields.io/badge/LinkedIn-blue -->
+### :fire: My Stats :
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=CoderCoding00 -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CoderCoding00&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoderCoding00&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderCoding00&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
