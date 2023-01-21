@@ -1,13 +1,11 @@
  ### <div id="title"> 
  <p align="center">  ✨ DRUM HOLLIDAY ✨  </p>
  </div>
- <br>
 <!--  ✨ Drum Holliday ✨   -->
   
 <!--   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
-<br><br>
 
 <!-- ## Full Stack Engineer and Software Developer -->
  <div id="header" align="center">
@@ -19,17 +17,17 @@
   </div> -->
 
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
-<!-- # Full Stack Engineer and Software Developer -->
+# About Me 
 - 👯 I’m open to collaborating on projects.
 - 📫 Email me: hollidaydrum@gmail.com   
-<div id="badges">
+- <div id="badges">
   <a href="https://www.linkedin.com/in/drumholliday/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-  <div id="header" align="center">
+<!--   <div id="header" align="center">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div>
+  </div> -->
 <!--   <div id="header" align="center">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div> -->
