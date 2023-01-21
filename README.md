@@ -4,13 +4,16 @@
  <br>
 <!--  ✨ Drum Holliday ✨   -->
   
-  <div align="center">
+<!--   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 <br><br>
 
 <!-- ## Full Stack Engineer and Software Developer -->
-
+ <div id="header" align="center">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  </div>
+  <br><br>
 <!-- <div id="header" align="left">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div> -->
@@ -25,10 +28,10 @@
   </a>
   </div>
   <br><br>
-  <div id="header" align="center">
+<!--   <div id="header" align="center">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div>
-  <br><br>
+  <br><br> -->
 <!--  <div id="title"> 
  <p align="center">👯 I’m open to collaborating on projects.</p>
  <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
