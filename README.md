@@ -1,7 +1,7 @@
  # ✨ Drum Holliday ✨  
  
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="500"/>
+  <div id="header" align="left">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div>
 
 <!-- <div id="header" align="center">
