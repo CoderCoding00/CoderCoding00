@@ -8,8 +8,8 @@
 </div> -->
 
 <!-- ## Full Stack Engineer and Software Developer -->
- <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="800" height="400"/>
+ <div id="header" align="center">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="700" height="400"/>
   </div>
   <br><br>
 
