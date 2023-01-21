@@ -1,4 +1,4 @@
- ##  <div id="title" align="center"> 
+ ##  <div id="title" text-align="center"> 
  <p>  ✨ Drum Holliday ✨  </p>
  </div>
 <div>
@@ -27,8 +27,8 @@
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div>
   
-## <div id="title" align="center"> 
- <p> Languages and Technologies </p>
+## <div id="title"> 
+ <p align="center"> Languages and Technologies </p>
  </div>
 <div>
  
