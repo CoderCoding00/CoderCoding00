@@ -1,11 +1,7 @@
  # ✨ Drum Holliday ✨  
- 
-  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div>
   
-  <div id="header" align="center">
-     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
+  <div id="header" align="left">
+     <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="150"/>
   </div>
 
 <!-- <iframe src="https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p> -->
@@ -33,6 +29,10 @@
 <!--  <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a      href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p> -->
 
 ## Full Stack Engineer and Software Developer
+
+<div id="header" align="left">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  </div>
 
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 - 👯 I’m open to collaborating on projects.
