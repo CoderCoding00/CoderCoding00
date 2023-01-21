@@ -1,11 +1,13 @@
-# ✨ Drum Holliday ✨
+# ✨ Drum Holliday <div id="header" align="center">
+  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+</div> ✨
 <!-- <div id="header" align="center">
   <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480"/>
 </div> -->
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
-</div>
+</div> -->
 
 <!-- <iframe src="https://giphy.com/embed/VTtANKl0beDFQRLDTh" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/thecodingspacerd-code-coding-eatsleepcode-VTtANKl0beDFQRLDTh">via GIPHY</a></p>
 
