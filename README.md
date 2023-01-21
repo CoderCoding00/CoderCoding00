@@ -1,25 +1,12 @@
-<!--  ### <div id="title"> 
- <p align="center">  ✨ DRUM HOLLIDAY ✨  </p>
- </div> -->
-<!-- # ✨ Drum Holliday ✨   -->
+
   
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+<br>
 
-<!-- ## Full Stack Engineer and Software Developer -->
-<!--  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="700" height="400"/>
-  </div>
-  <br><br> -->
-
- <!-- <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div> -->
-                                                                                     
-<!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 ## About Me 
-- ✨ Drum Holliday ✨  
+- ✨ DRUM HOLLIDAY ✨  
 - 👯 I’m open to collaborating on projects.
 - 📫 Email me: hollidaydrum@gmail.com   
 - <div id="badges">
@@ -27,34 +14,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-<!--   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div> -->
-<!--   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div> -->
-  <br><br>
-<!--   <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div>
-  <br><br> -->
-<!--  <div id="title"> 
- <p align="center">👯 I’m open to collaborating on projects.</p>
- <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
- </div>
- <div id="title"> 
- <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
- </div> -->
-<!-- - 👯 I’m open to collaborating on projects.
-- 📫 Email me: hollidaydrum@gmail.com   
-<div id="badges">
-  <a href="https://www.linkedin.com/in/drumholliday/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div> -->
+  <br>
   
 ## Languages and Technologies
  
@@ -70,8 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
+<br>
 
-### :fire: My Stats :
+##:fire: My Stats :
 <!-- https://github-readme-streak-stats.herokuapp.com/?user=CoderCoding00 -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CoderCoding00&theme=dark&background=000000)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CoderCoding00&theme=dark)](https://git.io/streak-stats) -->
