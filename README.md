@@ -1,4 +1,8 @@
- ## ✨ Drum Holliday ✨  
+ ##  <div id="title" align="center"> 
+ <p>  ✨ Drum Holliday ✨  </p>
+ </div>
+<div>
+<!--  ✨ Drum Holliday ✨   -->
   
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -13,19 +17,21 @@
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 <!-- # Full Stack Engineer and Software Developer -->
 - 👯 I’m open to collaborating on projects.
-- 📫 Email me: hollidaydrum@gmail.com 
-<div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
-  </div>
-  
+- 📫 Email me: hollidaydrum@gmail.com   
 - <div id="badges">
   <a href="https://www.linkedin.com/in/drumholliday/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
+  <div id="header" align="left">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  </div>
   
-## Languages and Technologies
+## <div id="title" align="center"> 
+ <p> Languages and Technologies </p>
+ </div>
 <div>
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
