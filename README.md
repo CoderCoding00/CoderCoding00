@@ -1,5 +1,5 @@
- ##  <div id="title" text-align="center"> 
- <p>  ✨ Drum Holliday ✨  </p>
+ # <div id="title"> 
+ <p align="center">  ✨ DRUM HOLLIDAY ✨  </p>
  </div>
 <div>
 <!--  ✨ Drum Holliday ✨   -->
