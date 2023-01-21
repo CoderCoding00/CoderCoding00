@@ -16,15 +16,12 @@
 
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 <!-- # Full Stack Engineer and Software Developer -->
- <div id="title"> 
+<div id="badges">
  <p align="center">👯 I’m open to collaborating on projects.</p>
+ <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
  </div>
  <div id="title"> 
  <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
- </div>
-<!-- - 👯 I’m open to collaborating on projects. -->
-<!-- - 📫 Email me: hollidaydrum@gmail.com    -->
-- <div id="badges">
   <a href="https://www.linkedin.com/in/drumholliday/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -32,6 +29,23 @@
   <div id="header" align="center">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div>
+<!--  <div id="title"> 
+ <p align="center">👯 I’m open to collaborating on projects.</p>
+ <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
+ </div>
+ <div id="title"> 
+ <p align="center">📫 Email me: hollidaydrum@gmail.com </p>
+ </div> -->
+<!-- - 👯 I’m open to collaborating on projects. -->
+<!-- - 📫 Email me: hollidaydrum@gmail.com    -->
+<!-- <div id="badges">
+  <a href="https://www.linkedin.com/in/drumholliday/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  </div>
+  <div id="header" align="center">
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
+  </div> -->
   
 ## <div id="title"> 
  <p align="center"> Languages and Technologies </p>
