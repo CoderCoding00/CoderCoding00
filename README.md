@@ -1,14 +1,14 @@
- ### <div id="title"> 
+<!--  ### <div id="title"> 
  <p align="center">  ✨ DRUM HOLLIDAY ✨  </p>
- </div>
-<!--  ✨ Drum Holliday ✨   -->
+ </div> -->
+# ✨ Drum Holliday ✨  
   
 <!--   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
 
 <!-- ## Full Stack Engineer and Software Developer -->
- <div id="header" align="center">
+ <div id="header" align="left">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div>
   <br><br>
@@ -54,7 +54,7 @@
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
   </div> -->
   
-## <div id="title"> 
+### <div id="title"> 
  <p align="center"> Languages and Technologies </p>
  </div>
  
