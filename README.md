@@ -8,5 +8,5 @@
 
 
 <!-- ## Languages and Technologies -->
-
+https://img.shields.io/badge/LinkedIn-blue
 
