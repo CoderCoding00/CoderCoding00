@@ -3,15 +3,15 @@
  </div> -->
 <!-- # ✨ Drum Holliday ✨   -->
   
-<!--   <div align="center">
+  <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
+</div>
 
 <!-- ## Full Stack Engineer and Software Developer -->
- <div id="header" align="center">
+<!--  <div id="header" align="center">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="700" height="400"/>
   </div>
-  <br><br>
+  <br><br> -->
 
  <!-- <div id="header" align="left">
     <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="300"/>
