@@ -1,7 +1,7 @@
 <!--  ### <div id="title"> 
  <p align="center">  ✨ DRUM HOLLIDAY ✨  </p>
  </div> -->
-# ✨ Drum Holliday ✨  
+<!-- # ✨ Drum Holliday ✨   -->
   
 <!--   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -9,7 +9,7 @@
 
 <!-- ## Full Stack Engineer and Software Developer -->
  <div id="header" align="left">
-    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="600" height="300"/>
+    <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="800" height="400"/>
   </div>
   <br><br>
 
@@ -19,6 +19,7 @@
                                                                                      
 <!-- - 🔭 I’m currently working on building an application using OpenAI's API. -->
 ## About Me 
+- ✨ Drum Holliday ✨  
 - 👯 I’m open to collaborating on projects.
 - 📫 Email me: hollidaydrum@gmail.com   
 - <div id="badges">
