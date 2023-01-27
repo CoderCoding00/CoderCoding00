@@ -1,8 +1,9 @@
 
-  
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+ 
+ <div align="center">
+  <img src="https://www.canva.com/design/DAFW2sb3_5A/zwMkAB_YE8zBY601YmOfDg/view?utm_content=DAFW2sb3_5A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" width="600" height="300"/>
 </div>
+
 <br>
 
 ## About Me 
